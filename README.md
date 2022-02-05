@@ -15,8 +15,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 #### BONUS
 - [x] (2pts) Views should be responsive for both landscape/portrait mode.
    - [x] (1pt) In portrait mode, the poster image, title, and movie overview is shown.
-   <img src="https://imgur.com/a/gdr5z8r" width=250><br>
-   <blockquote class="imgur-embed-pub" lang="en" data-id="a/gdr5z8r"  ><a href="//imgur.com/a/gdr5z8r">Flixster Potrait Mode</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
    
    - [x] (1pt) In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 
@@ -26,8 +24,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 
-
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="potrait.gif" width=250><br>
 
