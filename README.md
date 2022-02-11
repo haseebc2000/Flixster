@@ -23,6 +23,10 @@
 
 <img src="video_details.gif" width=250><br>
 
+### Full Screen
+
+<img src="video_details.gif" width=250><br>
+
 ### Notes
 
 Describe any challenges encountered while building the app.
