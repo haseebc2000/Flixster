@@ -25,7 +25,7 @@
 
 ### Full Screen
 
-<img src="video_details.gif" width=250><br>
+<img src="full_screen.gif" width=250><br>
 
 ### Notes
 
